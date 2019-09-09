@@ -26,7 +26,8 @@ SECRET_KEY = '3k2#t86^q==zzqn&pf&ipzvdetd-s_cx_1e7s4p6od7hfc*&b+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0d1ffb5566b5432a807f12b2ba0c3a67.vfs.cloud9.us-east-1.amazonaws.com']
+ALLOWED_HOSTS = ['0d1ffb5566b5432a807f12b2ba0c3a67.vfs.cloud9.us-east-1.amazonaws.com'
+                'test-apples.herokuapp.com']
 
 
 # Application definition
